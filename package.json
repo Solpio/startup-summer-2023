@@ -1,5 +1,5 @@
 {
-  "name": "calculator",
+  "name": "SummerApp",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Artyom Popkov",
@@ -20,7 +20,6 @@
     "@redux-devtools/core": "^3.13.1",
     "@svgr/webpack": "^6.3.1",
     "@types/react": "^18.0.18",
-    "@types/react-dnd": "^3.0.2",
     "@types/react-dom": "^18.0.6",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.48.2",
@@ -58,8 +57,6 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "react": "^18.2.0",
-    "react-dnd": "^16.0.1",
-    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.4",
     "redux": "^4.2.0",
